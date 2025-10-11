@@ -1,11 +1,11 @@
 {
  "Version": "",
  "Message": "",
- "DefUpdateURL": "",
+ "DefUpdateURL": "https:\/\/raw.githubusercontent.com\/DBlack-json\/config.repo\/main\/config.json",
  "GameID": "",
  "ContactSupport": "",
  "TelegramSupporter": "",
- "Udp_port": "",
+ "Udp_port": "7300",
  "Categories": [
   {
    "Name": "Default Category",
