@@ -1,11 +1,11 @@
 {
- "Version": "",
- "Message": "",
- "DefUpdateURL": "",
- "GameID": "",
- "ContactSupport": "",
- "TelegramSupporter": "",
- "Udp_port": "",
+ "Version": "1",
+ "Message": "r",
+ "DefUpdateURL": "f",
+ "GameID": "f",
+ "ContactSupport": "c",
+ "TelegramSupporter": "c",
+ "Udp_port": "g",
  "Categories": [
   {
    "Name": "Default Category",
