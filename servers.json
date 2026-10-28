@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "name": "Test",
+    "description": "Custom server",
+    "mode": "SSL_PROXY",
+    "tls_version": "1.2",
+    "sorter": 1,
+    "status": "online",
+    "auth": {
+      "username": "tim0",
+      "password": "7676",
+      "v2ray_uuid": ""
+    },
+    "config_payload": {
+      "payload": "GET /kurtz HTTP/1.1[lf]Host: kurtzssh.centraldacdn.com[lf]Upgrade: websocket[lf][lf]npv-x: ok[lf][lf]",
+      "sni": "kurtzssh.centraldacdn.com"
+    },
+    "config_v2ray": "",
+    "dns_server": {
+      "dns1": "8.8.8.8",
+      "dns2": "8.8.4.4"
+    },
+    "icon": "",
+    "proxy": {
+      "host": "162.247.241.4",
+      "port": 443
+    },
+    "server": {
+      "host": "162.247.241.4",
+      "port": 443
+    },
+    "dnstt_key": "",
+    "dnstt_name_server": "",
+    "dnstt_server": "",
+    "udp_ports": [],
+    "category": {
+      "name": "Default",
+      "sorter": 1
+    }
+  }
+]
