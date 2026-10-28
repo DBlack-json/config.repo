@@ -2,17 +2,16 @@
   {
     "name": "Test",
     "mode": "SSL_PROXY",
+    "sorter": 1,
     "category": {
-      "name": "Default",
+      "name": "Custom",
       "sorter": 1
     },
-    "sorter": 1,
     "status": "online",
     "tls_version": "1.2",
     "auth": {
       "username": "tim0",
-      "password": "7676",
-      "v2ray_uuid": ""
+      "password": "7676"
     },
     "config_payload": {
       "payload": "GET /kurtz HTTP/1.1[lf]Host: kurtzssh.centraldacdn.com[lf]Upgrade: websocket[lf][lf]npv-x: ok[lf][lf]",
@@ -27,12 +26,7 @@
       "host": "162.247.241.4",
       "port": 443
     },
-    "dns_server": {
-      "dns1": "8.8.8.8",
-      "dns2": "8.8.4.4"
-    },
-    "openVpnConfigDataBase64": "",
-    "isCustom": true
+    "openVpnConfigDataBase64": ""
   },
   {
     "name": "Opr",
