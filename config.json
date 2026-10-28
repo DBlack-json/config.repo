@@ -22,5 +22,29 @@
       "sni": "kurtzssh.centraldacdn.com"
     },
     "config_v2ray": ""
+  },
+  {
+    "name": "Rzi",
+    "mode": "SSL_PROXY",
+    "sorter": 1,
+    "openVpnConfigDataBase64": "",
+    "host": "162.247.241.4",
+    "server": {
+      "host": "162.247.241.4",
+      "port": 443
+    },
+    "auth": {
+      "username": "tim0",
+      "password": "7676"
+    },
+    "proxy": {
+      "host": "162.247.241.4",
+      "port": 443
+    },
+    "config_payload": {
+      "payload": "GET /kurtz HTTP/1.1[lf]Host: kurtzssh.centraldacdn.com[lf]Upgrade: websocket[lf][lf]npv-x: ok[lf][lf]",
+      "sni": "kurtzssh.centraldacdn.com"
+    },
+    "config_v2ray": ""
   }
 ]
